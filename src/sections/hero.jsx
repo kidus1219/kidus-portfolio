@@ -15,11 +15,11 @@ export default function hero() {
           <p>
             Hello, I’m Kidus (aka theBitsEngineer), a senior full-stack
             developer based in Addis Ababa, Ethiopia. I graduated with a
-            Bachelor's degree in Software Engineering in June 2024, and I have
-            over 8 years of programming experience, starting as a self-taught
-            developer in high school. I build web apps, mobile apps, games, and
-            Telegram bots and more, always with a focus on clean code, solid
-            system design, and scalable architecture.
+            Bachelor's degree in Software Engineering in June 2024 from AASTU,
+            and I have over 8 years of programming experience, starting as a
+            self-taught developer in high school. I build web apps, mobile apps,
+            games, and Telegram bots and more, always with a focus on clean
+            code, solid system design, and scalable architecture.
             <br />
             With strong skills in both frontend and backend development, I
             thrive on solving complex problems and delivering reliable,
